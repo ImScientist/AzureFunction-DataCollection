@@ -1,0 +1,8 @@
+.ipynb_checkpoints/*
+notebooks/*
+.git*
+.vscode
+local.settings.json
+local.settings.json.sample
+test
+.venv
